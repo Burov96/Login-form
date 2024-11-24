@@ -1,4 +1,3 @@
-import React from 'react';
 import { DotLottiePlayer } from '@dotlottie/react-player';
 
 interface ErrorProps {
